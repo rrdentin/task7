@@ -1,10 +1,12 @@
-# [Task 6] ReactJS Router
+# [Task 7] ReactJS Testing, Component Testing
+## Docker CI/CD
+![Docker CI/CD](https://github.com/rrdentin/task7/actions/workflows/main.yml/badge.svg)
 
 Simple overview of use/purpose.
-<a href="https://portfolio.daintycube.my.id/">https://portfolio.daintycube.my.id/</a>
+<a href="https://portfolio-task-6-one.vercel.app/">https://portfolio-task-6-one.vercel.app//</a>
 ## Description
 
-Buatlah sebuah website Portfolio masing-masing, menggunakan ReactJS (beserta fitur-fitur pada ReactJS seperti useEffect, useState dan lainnya), CSS framework Material UI atau Tailwind CSS.
+Tambahkan pengujian komponen (Component Testing) dan Continuous Integration/Continuous Deployment (CI/CD) pipeline menggunakan GitHub Actions, pada website portfolio yang sudah dibuat pada Task 6.
 
 ## Getting Started
 
